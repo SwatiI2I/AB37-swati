@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-16T17:15:17 IST" name="Default suite" finished-at="2024-02-16T17:15:17 IST" duration-ms="47">
+    <groups>
+      <group name="smok">
+        <method signature="Grouptetsing.add()[pri:0, instance:selenumprog.Grouptetsing@bd4dc25]" name="add" class="selenumprog.Grouptetsing"/>
+        <method signature="Grouptetsing.mult()[pri:0, instance:selenumprog.Grouptetsing@bd4dc25]" name="mult" class="selenumprog.Grouptetsing"/>
+      </group> <!-- smok -->
+    </groups>
+    <test started-at="2024-02-16T17:15:17 IST" name="Default test" finished-at="2024-02-16T17:15:17 IST" duration-ms="47">
+      <class name="selenumprog.Grouptetsing">
+        <test-method signature="add()[pri:0, instance:selenumprog.Grouptetsing@bd4dc25]" started-at="2024-02-16T17:15:17 IST" name="add" finished-at="2024-02-16T17:15:17 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="div()[pri:0, instance:selenumprog.Grouptetsing@bd4dc25]" started-at="2024-02-16T17:15:17 IST" name="div" finished-at="2024-02-16T17:15:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method signature="mod()[pri:0, instance:selenumprog.Grouptetsing@bd4dc25]" started-at="2024-02-16T17:15:17 IST" name="mod" finished-at="2024-02-16T17:15:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mod -->
+        <test-method signature="mult()[pri:0, instance:selenumprog.Grouptetsing@bd4dc25]" started-at="2024-02-16T17:15:17 IST" name="mult" finished-at="2024-02-16T17:15:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult -->
+        <test-method signature="sub()[pri:0, instance:selenumprog.Grouptetsing@bd4dc25]" started-at="2024-02-16T17:15:17 IST" name="sub" finished-at="2024-02-16T17:15:17 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- selenumprog.Grouptetsing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
